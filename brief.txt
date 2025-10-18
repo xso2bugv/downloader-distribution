@@ -1,0 +1,2 @@
+# Quick Thoughts
+Remove unused package from dependencies list
